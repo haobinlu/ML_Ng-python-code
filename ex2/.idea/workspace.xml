@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="ff2b7d65-0531-4c0b-bfc6-b56a5a9868b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytest_LogisticRegression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mytest_LogisticRegression.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mytest_Regularization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mytest_Regularization.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex6/ML-Exercise6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../ex6/ML-Exercise6.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex6/mytest_GussainKernel.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../ex6/mytest_GussainKernel.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex6/mytest_linear.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../ex6/mytest_linear.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex6/test.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ex3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -60,6 +65,8 @@
       <workItem from="1572440793930" duration="3182000" />
       <workItem from="1572485286165" duration="2605000" />
       <workItem from="1572590321091" duration="10000" />
+      <workItem from="1573193143549" duration="480000" />
+      <workItem from="1573194702321" duration="2990000" />
     </task>
     <servers />
   </component>
